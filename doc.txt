@@ -1,0 +1,2 @@
+yarn hide --i imagem1.png --o teste.png --m "Palmeiras não tem mundial!"
+yarn reveal --i teste.png
